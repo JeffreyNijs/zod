@@ -270,6 +270,12 @@ const mockingLibraries: ZodResource[] = [
       "Random zod schema generator built for fuzz testing; includes generators for both valid and invalid data",
     slug: "traversable/schema",
   },
+  {
+    name: "Mimlet",
+    url: "https://jeffreynijs.github.io/mimlet/",
+    description: "Typed fixture builders for Zod 4 with schema-driven input generation and native validation.",
+    slug: "JeffreyNijs/mimlet",
+  },
 ];
 
 const poweredByZodProjects: ZodResource[] = [
